@@ -91,6 +91,15 @@
 	gap: 15px;
 }
 
+.places_amenities ul li img{
+	width: 25px;
+	height: 25px;
+}
+
+.places_amenities ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+
 
 .places_reviews h3{
 	font-size: 14px;
