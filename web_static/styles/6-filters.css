@@ -63,6 +63,7 @@
 	position: absolute;
 	padding: 30px 15px;
 	display: none;
+	z-index: 1000;
 }
 
 .popover, .popover ul{
